@@ -1,7 +1,7 @@
 p1 {
 	font-size: 50;
 	color: white;
-	font-family: Arial;
+	font-family: inherit;
 	font-weight: bold;
 }
 p2 {
